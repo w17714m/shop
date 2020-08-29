@@ -1,0 +1,102 @@
+{"data":[
+  {
+  "id": 1,
+  "name": "AGUA-HUNI",
+  "description": "Bicarbonato, Calcio, Cloruros, Fosfatos, Hierro, Magnesio, Potasio (Paca por 12 unidades) Agua mineral de Ph 7.5, enriquecida con minerales\n\n",
+  "price": 42000,
+  "pictureUrl": "/assets/images/tienda/agua-huni.jpg",
+  "productType": "Agua Mineral",
+  "productBrand": "Adelgazante"
+  },
+  {
+    "id": 2,
+    "name": "AGY-FORT",
+    "description": "Guaraná, Lecitina de soya, Levadura de cerveza, Te verde, Vitamina B1, B6, C, E, Niacina, Riboflavina, Ácido fólico, Hierro, Zinc, Manganeso\n\n",
+    "price": 69500,
+    "pictureUrl": "/assets/images/tienda/agy-for.jpg",
+    "productType": "Energizante",
+    "productBrand": "Energizante"
+  },
+  {
+    "id": 3,
+    "name": "DIVI-HER",
+    "description": "Reduce el peso quemando la grasa localizada al generar calor para desprenderla. Ayuda a regular estreñimiento, problemas del colon irritable, la gastritis. Regula los niveles colesterol y triglicéridos. Controla los niveles de azúcar, regula la tiroides. Actúa a nivel celular. Limpia las vellosidades intestinales. Elimina los radicales libres de oxigeno",
+    "price": 69500,
+    "pictureUrl": "/assets/images/tienda/divi-her.jpg",
+    "productType": "Tratamientos para Adelgazar",
+    "productBrand": "Tratamientos para Adelgazar"
+  },
+  {
+    "id": 4,
+    "name": "GRAVI-LIFE",
+    "description": "Mejor oxidación celular, reduce la progresión del Alzheimer y Parkinson, ayuda a prevenir la osteoporosis, combate el asma, diabetes, desordenes del hígado y el cáncer.\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/gravi-life.jpg",
+    "productType": "Productos",
+    "productBrand": "Productos"
+  },
+  {
+    "id": 5,
+    "name": "JUFRES",
+    "description": "Piel hermosa, previene el envejecimiento prematur, protege la piel de la radiación solar, fortalece cabello y uñas, reduce fibromialgia, rigidez, dolor muscular.\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/jufres.jpg",
+    "productType": "Productos",
+    "productBrand": "Productos"
+  },
+  {
+    "id": 6,
+    "name": "JU-VENT",
+    "description": "Colágeno hidrolizado para una óptima absorción en el cuerpo, además contiene entre otros componentes biotina, avena, niacina vitamina B12, proteína hidrolizada de soya.\n\n",
+    "price": 92500,
+    "pictureUrl": "/assets/images/tienda/ju-vent.jpg",
+    "productType": "Colágeno",
+    "productBrand": "Colágeno"
+  },
+  {
+    "id": 7,
+    "name": "LIBI-LIFE",
+    "description": "Mejora tu salud sexual, activa tu energía, antidepresivo natural, ayuda a optimizar el rendimiento deportivo.\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/libi-life.jpg",
+    "productType": "Productos",
+    "productBrand": "Productos"
+  },
+  {
+    "id": 8,
+    "name": "LIFE-DIG",
+    "description": "Para una digestión sana, problemas de estreñimiento, ayuda a curar enfermedades de la piel, controla el ácido úrico, ayuda con funciones metabólicas del cuerpo.\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/life-dig.jpg",
+    "productType": "Productos",
+    "productBrand": "Productos"
+  },
+  {
+    "id": 9,
+    "name": "MACA-LIFE",
+    "description": "Raíz de maca en polvo, Vitamina A, Vitamina E, Vitamina b1, Vitamina C, Vitamina B2, Niacina, Biotina, Vitamina B6, ácido pantotenico, Calcio, Selenio.\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/maca-life.jpg",
+    "productType": "Rendimiento",
+    "productBrand": "Rendimiento"
+  },
+  {
+    "id": 10,
+    "name": "PROTEC-LIFE",
+    "description": "El calostro como suplemento aumenta la eficiencia del intestino para absorber la energía de aminoácidos y carbohidratos, lo que hace que más nutrientes sean aprovechables por las células musculares y otros tejidos y órganos vitales. Contiene Lactoferrina que es una proteína anti-viral, anti-bacterial, anti-inflamatoria, que une el hierro y tiene efectos terapéuticos contra el cáncer, VIH, Citomegalovirus, Herpes, Síndrome de fatiga crónica y otras infecciones.\n\n",
+    "price": 92500,
+    "pictureUrl": "/assets/images/tienda/protec-life.jpg",
+    "productType": "Factor de Transferencia",
+    "productBrand": "Factor de Transferencia"
+  },
+  {
+    "id": 11,
+    "name": "VID-LIFE",
+    "description": "Potente Antioxidante, ayuda a combatir los radicales libres, hidratante, protectora y energética, cuida el sistema inmunológico y previene la formación de coágulos en la sangre, reduce la hipertensión arterial, la formación de cataratas, el riesgo cardiovascular, ideal para el tratamiento de venas várices y arañitas\n\n",
+    "price": 58000,
+    "pictureUrl": "/assets/images/tienda/vid-life.jpg",
+    "productType": "Antioxidante",
+    "productBrand": "Antioxidante"
+  }
+]
+}
